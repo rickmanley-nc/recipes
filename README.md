@@ -1,3 +1,3 @@
 # Recipes
 
-* [Simple Wet Salt Brine](brines/) \[Test\]
+* [Simple Salt Brine](brines/) \[Test\]
