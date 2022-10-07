@@ -1,5 +1,11 @@
 # Recipes
 
-* [Simple Salt Brine](brines/) \[Test\]
-* [Chicken Wing Base](bbq-tailgate/chicken-wings-base/)
-* [Pork Butt Texas Style](bbq-tailgate/Pork-Butt-Texas-Style/)
+* [Simple Salt Brine](brines/)
+* [Chicken Wing Base](tailgate/chicken-wings-base/)
+* [Pork Butt Texas Style](tailgate/Pork-Butt-Texas-Style/)
+
+
+## Sauces
+* [Korean BBQ Sauce](sauces/korean-bbq/) ![alt text][spicy]
+
+[spicy]: https://github.com/rickmanley-nc/recipes/pics/raw/master/src/common/images/icon48.png "FIYAH!"
