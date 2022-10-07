@@ -6,6 +6,4 @@
 
 
 ## Sauces
-* [Korean BBQ Sauce](sauces/korean-bbq/) ![alt text][spicy]
-
-[spicy]: https://github.com/rickmanley-nc/recipes/blob/main/pics/fire.png "FIYAH!"
+* [Korean BBQ Sauce](sauces/korean-bbq/) ![spicy](docs/assets/images/fire.png)
