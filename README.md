@@ -7,3 +7,4 @@
 
 ## Sauces
 * [Korean BBQ Sauce](sauces/korean-bbq/) ![spicy](docs/assets/images/fire.png)
+* [Teriyaki](sauces/teriyaki/)

@@ -1,4 +1,4 @@
-
+### Ingredients
 * 1 tablespoon vegetable oil
 * 4 cloves garlic, minced
 * 1/3 cup Korean red chili pepper paste (Gochujang)
@@ -12,7 +12,7 @@
 * Add Last: 1 tablespoon sesame oil
 * Garnish: toasted sesame seeds, sliced green onion
 
-
+### Step-by-Step
 1. In a small sauce pan over medium-high heat, add vegetable oil and saute garlic for 1 minute or until fragrant.
 2. Add Gochujang, and saute for 1 minute.
 3. Add remaining ingredients (except sesame oil, toasted sesame seeds, and green onion). Bring the sauce to a boil over high heat and cook for 1 to 2 minutes, stirring constantly.
