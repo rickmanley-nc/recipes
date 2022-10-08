@@ -3,7 +3,7 @@
 ### Ingredients
 * 1 tablespoon vegetable oil
 * 4 cloves garlic, minced
-* 1/3 cup Korean red chili pepper paste (Gochujang)
+* 1/4 cup Korean red chili pepper paste (Gochujang)
 * 1/4 cup soy sauce
 * 2 tablespoons water
 * 1 tablespoon rice wine vinegar
