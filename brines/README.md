@@ -4,7 +4,7 @@
 * 1/4 cup kosher salt
 * Any additional herbs, sugar or aromatic ingredients (optional)
 
-For chicken wings, mix and store between 2-4 hours in fridge
+For chicken wings, mix and store between 2-3 hours in fridge
 
 
 ###### Credit:
