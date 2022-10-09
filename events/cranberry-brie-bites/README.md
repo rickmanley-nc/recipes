@@ -1,5 +1,5 @@
 # Cranberry Brie Bites
-
+![cranberry-brie-bites](../../docs/assets/images/cranberry-brie-bites.jpeg)
 
 ### Ingredients
 * Cooking spray, for pan
