@@ -18,10 +18,10 @@
 
 
 #### Alternatives
-*Crumbled goat cheese + apricot preserves + toasted marcona almonds + thyme 
-*Camembert + cherry preserves + crumbled bacon + black pepper 
-*Brie + hot pepper jelly + candied pecans + thyme
-*Gorgonzola + fig chutney + mint + toasted walnuts
+* Crumbled goat cheese + apricot preserves + toasted marcona almonds + thyme 
+* Camembert + cherry preserves + crumbled bacon + black pepper 
+* Brie + hot pepper jelly + candied pecans + thyme
+* Gorgonzola + fig chutney + mint + toasted walnuts
 
 
 
