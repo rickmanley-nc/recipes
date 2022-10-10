@@ -1,8 +1,10 @@
 title: Nelson's Farm and Grill # EDIT: Fill this in
 description: Menu # EDIT: Fill this in
 
-remote_theme: just-the-docs/just-the-docs # 
+remote_theme: zerostaticthemes/jekyll-serif-theme # 
 github_repo_url: "https://rickmanley-nc.github.io/recipes/" # EDIT: REPLACE WITH THE URL TO YOUR WEBPAGE
+
+# baseurl: "/jekyll-serif-theme/"
 
 # Heading anchor links appear on hover over h1-h6 tags in page content
 # allowing users to deep link to a particular heading on a page. (true or false)
